@@ -2,6 +2,7 @@
 
 ## class assigment - 
 the ex11 gets two files and checks their equality.
+
 the ex12 gets:
 
 -a folder which contains folders of students with c code of an addition function
